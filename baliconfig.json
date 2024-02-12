@@ -1,0 +1,10 @@
+{
+    "version": "0.1",
+    "comment": "Initial version",
+    "date": "2024-02-12",
+    "language":"en",
+    "noCodingMessageTimeMin": 5,
+    "noCodingMessageTimeMax": 30,
+    "humorMessageTime": 60,
+    "deletingCodeMessageTime": 500
+}

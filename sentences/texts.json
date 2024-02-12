@@ -1,0 +1,18 @@
+{
+  "tr": {
+    "startText": "Senin için bir şeyler hazırladık. Bir gözün buralarda olsun, ara sıra bi şeyler paylaşacağız. :)",
+    "endText": "Bir şeyler paylaşmaya devam edeceğiz. Takipte kalın. :)",
+    "letsStart": "Hadi Başlayalım!",
+    "letsGo": "Hadi Gidelim!",
+    "goodbyeText": "Görüşmek üzere!",
+    "afk": "Fazla uzun süre beklediğinizi düşünüyoruz. Eğer hala buradaysanız, bir şeyler paylaşmaya devam edeceğiz. :)"
+  },
+  "en": {
+    "startText": "We have prepared something for you. Keep an eye on here, we will share something occasionally. :)",
+    "endText": "We will continue to share something. Stay tuned. :)",
+    "letsStart": "Let's Start!",
+    "letsGo": "Let's Go!",
+    "goodbyeText": "See you!",
+    "afk": "We think you have waited too long. If you are still here, we will continue to share something. :)"
+  }
+}
